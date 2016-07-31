@@ -20,12 +20,11 @@ margin-left:0.6em;
 
 font-family: Avenir Next;
 font-size: 1em;
-
+text-decoration:none;
 }
 
 a:hover {
 color: #75C6C6;
-text-decoration:none;
 }
 
 
