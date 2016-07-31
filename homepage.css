@@ -12,6 +12,7 @@ margin-left:0.6em;
 div{
 position: absolute;
 display: inline-block;
+margin: 0.3em 1.3em 0.5em 1.3em;
 
 }
 
@@ -19,7 +20,7 @@ display: inline-block;
 margin-left: 0.5em;
 font-family: Avenir Next;
 font-size: 1em;
-margin: 0.3em 1.3em 0.5em 1.3em;
+
 clear: both;
 
 }
