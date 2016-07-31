@@ -23,6 +23,10 @@ font-size: 1em;
 
 }
 
+a{
+text-decoration:none;
+}
+
 a:hover {
 color: #75C6C6;
 text-decoration: none;
