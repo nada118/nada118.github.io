@@ -12,14 +12,15 @@ margin-left:0.6em;
 .container > div {
   display: inline-block;
    width: 25%;
-   text-align: center;
+   text-align: right;
+   text-decoration: none;
 }
 
 
 .shortcuts{
 font-family: Avenir Next;
 font-size: 1em;
-text-decoration: none;
+
 }
 
 a:hover {
