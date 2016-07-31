@@ -5,11 +5,13 @@ color: #75C6C6;
 font-weight: lighter;
 letter-spacing: -0.07em;
 position: relative;
-margin: 0.3em 0em 0 em 0.6em
+margin-top: 0.3em;
+margin-left:0.6em;
 }
 
 div{
 display: inline-block;
+
 }
 
 .shortcuts{
@@ -19,6 +21,7 @@ font-family: Avenir Next;
 font-size: 1em;
 display: inline-block;
 margin: 0.em 1.7em 0.5em 1.7em;
+
 }
 
 #home{
