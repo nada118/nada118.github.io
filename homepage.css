@@ -10,15 +10,14 @@ margin-left:0.6em;
 }
 
 .container > div {
- display: inline-block;
-    
+  display: inline-block;
     width: 33%;
     text-align: center;
 }
 
 
 .shortcuts{
-margin-left: 0.5em;
+
 font-family: Avenir Next;
 font-size: 1em;
 text-align: justify;
