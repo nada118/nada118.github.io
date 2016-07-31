@@ -13,7 +13,7 @@ margin-left:0.6em;
   display: inline-block;
    width: 25%;
    text-align: right;
-   text-decoration: none;
+
 }
 
 
@@ -25,6 +25,7 @@ font-size: 1em;
 
 a:hover {
 color: #75C6C6;
+text-decoration: none;
 }
 
 
