@@ -15,7 +15,7 @@ display: inline-block;
 }
 
 .shortcuts{
-position:relative;
+position:absolute;
 margin-left: 0.5em;
 font-family: Avenir Next;
 font-size: 1em;
