@@ -9,12 +9,15 @@ margin-left: 0.6em;
 margin-top: 0.3em;
 }
 
+div{
+display: inline-block;
+}
+
 .shortcuts{
 position:absolute;
 margin-left: 0.5em;
 font-family: Avenir Next;
 font-size: 1em;
-display: inline-block;
 }
 
 #home{
