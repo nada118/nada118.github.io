@@ -4,4 +4,10 @@ font-size: 4em;
 color: #75C6C6;
 font-weight: lighter;
 letter-spacing: -0.07em;
+word spacing: 0.1em;
+}
+
+.shortcuts{;
+font-family: Avenir Next;
+font-size: 1em;
 }
