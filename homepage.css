@@ -9,9 +9,16 @@ margin-left: 0.6em;
 margin-top: 0.3em;
 }
 
-.shortcuts{;
+.shortcuts{
+position:absolute;
+margin-left: 0.5em;
 font-family: Avenir Next;
 font-size: 1em;
+}
+
+#home{
+position: absolute;
+ margin-left: 1em;
 }
 
 p{
