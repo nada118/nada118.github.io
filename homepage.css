@@ -13,12 +13,12 @@ display: inline-block;
 }
 
 .shortcuts{
-position:absolute;
+position:relative;
 margin-left: 0.5em;
 font-family: Avenir Next;
 font-size: 1em;
 display: inline-block;
-margin: 0em 1.7em 0.5em 1.7em;
+margin: 0.em 1.7em 0.5em 1.7em;
 }
 
 #home{
