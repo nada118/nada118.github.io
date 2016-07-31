@@ -11,8 +11,8 @@ margin-left:0.6em;
 
 .container > div {
   display: inline-block;
-    width: 33%;
-    text-align: center;
+   width: 33%;
+   text-align: center;
 }
 
 
@@ -20,12 +20,12 @@ margin-left:0.6em;
 
 font-family: Avenir Next;
 font-size: 1em;
-text-align: justify;
 
 }
 
 a:hover {
 color: #75C6C6;
+text-decoration:none;
 }
 
 
