@@ -16,7 +16,7 @@ float: left;
    text-align: right;*/
 }
 
-p:first-child{
+#intro{
 font-size: 3em;
 font-weight: bold;
 }
