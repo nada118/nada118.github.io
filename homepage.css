@@ -38,6 +38,9 @@ color: #75C6C6;
 text-decoration: none;
 }
 
+.aboutme{
+left:4em;
+}
 
 .aboutme > *{
 font-family: Avenir Next;
