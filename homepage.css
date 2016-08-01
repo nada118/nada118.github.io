@@ -46,11 +46,10 @@ p{
 
 .about_me{
 position:relative
-text-align: right;
+/*text-align: right;*/
 font-family: Avenir Next;
 display: inline-block;
 width: 20em;
-position: relative;
 }
 
 #hello{
