@@ -16,11 +16,10 @@ float: left;
    text-align: right;*/
 }
 
-#intro{
+header{
 font-size: 3em;
 color: #282828
 float: right;
-display: inline-block;
 margin: 2em 4em 0em 0em;
 }
 
