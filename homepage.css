@@ -73,9 +73,7 @@ display: inline-block;
 border-radius: 50%;
 height: 350px;
 width: 350;
-background-position: 50%;
-background-image: url('images/ned.jpg');
-position: relative;
+
 }
 
 #me:hover {
