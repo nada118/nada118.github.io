@@ -57,7 +57,7 @@ width: 25em;
 margin: 1em 1em 1em 1em;
 }
 
-#my_face{
+#me{
 float: left;
 display: inline-block;
 margins: 2em 1em 1em 1em;
@@ -68,7 +68,7 @@ background-position: 50%;
 background-image: url('images/ned.jpg');
 }
 
-#my_face:hover {
+#me:hover {
 height: 450px;
 width: 450px;
 background-position: 50%;
