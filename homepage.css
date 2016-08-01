@@ -54,3 +54,9 @@ font-family: Avenir Next;
 float: right;
 display: inline-block;
 }
+
+img{
+float: left;
+display: inline-block;
+margins: 2em 1em 1em 1em;
+}
