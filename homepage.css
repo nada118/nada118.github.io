@@ -42,49 +42,29 @@ text-decoration: none;
 .aboutme > *{
 font-family: Avenir Next;
 display: inline-block;
-text-align:left;
-float:left;
+margin-left: 50%;
+
+/*float:left;
 margin: 0.5em 0.5em 0.5em 0.5em;
 position:relative;
-left:4em;
+left:4em;*/
 }
 
 #hello{
 font-size: 3em;
 color: #282828;
-right: 3.47em;
 font-weight: lighter;
-position:relative;
-text-align: left;
-float: right;
-margin: 1em 1em 0em 1em;
-
 }
 
 #school {
-/*top: 0.5em;
-left: 29.63em;
-right: 2em;
-bottom: 1em;*/
 width: 30em;
-clear:right;
 }
 
 #personal {
-/*top: 4em;
-left: -1.5em;
-right: 2em;
-bottom: 1em;*/
 width: 30em;
-clear:right;
 }
 #thanks {
-/*top: 4em;
-left: 2em;
-right: 2em;
-bottom: 1em;*/
 width: 30em;
-clear:right;
 }
 
 #me{
