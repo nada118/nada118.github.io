@@ -71,6 +71,7 @@ border-radius: 50%;
 height: 350px;
 width: 350;
 margin-right: 50%;
+position: relative;
 }
 
 #me:hover >img  {
