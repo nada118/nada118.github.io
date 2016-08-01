@@ -39,7 +39,7 @@ text-decoration: none;
 }
 
 
-.aboutme > *{
+.aboutme > * {
 position:relative
 /*text-align: right;*/
 font-family: Avenir Next;
@@ -53,8 +53,8 @@ left: 10em;
 top: 1em;
 right: 2em;
 bottom: 1em;
-
 }
+
 #school {
 top: 0.5em;
 left: 29.63em;
@@ -64,6 +64,7 @@ margin: 0.5em 0.5em 0.5em 0.5em;
 width: 30em;
 font-family: Avenir Next;
 }
+
 #personal {
 margin: 0.5em 0.5em 0.5em 0.5em;
 top: 4em;
