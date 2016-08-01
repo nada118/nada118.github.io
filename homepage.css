@@ -44,7 +44,7 @@ font-family: Avenir Next;
 display: inline-block;
 text-align:left;
 float:right;
-margin: 1em 1em 1em 1em;
+margin: 0.5em 0.5em 0.5em 0.5em;
 }
 
 #hello{
@@ -70,13 +70,12 @@ top: 6em;
 left: 29.63em;
 right: 2em;
 bottom: 1em;*/
-margin: 0.5em 0.5em 0.5em 0.5em;
+
 width: 30em;
 clear:right;
 }
 
 #personal {
-margin: 0.5em 0.5em 0.5em 0.5em;
 /*top: 4em;
 left: -1.5em;
 right: 2em;
