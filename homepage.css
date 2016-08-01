@@ -54,6 +54,9 @@ font-size: 3em;
 color: #282828;
 right: 3.47em;
 font-weight: lighter;
+position:relative;
+text-align: left;
+float: right;
 margin: 1em 1em 0em 1em;
 
 }
