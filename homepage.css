@@ -16,6 +16,11 @@ float: left;
    text-align: right;*/
 }
 
+p:first-child{
+font-size: 3em;
+font-weight: bold;
+}
+
 /*#home {
 margin: 0.5em 1em 1em 1em;
 } */
