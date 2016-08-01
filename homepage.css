@@ -17,6 +17,7 @@ float: left;
 }
 
 #line {
+position: relative;
 margin:0;
 padding: 0;
 }
