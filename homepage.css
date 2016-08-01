@@ -20,6 +20,7 @@ header{
 font-size: 3em;
 color: #282828
 margin: 2em 4em 0em 0em;
+float: right;
 
 }
 
@@ -58,7 +59,7 @@ margin: 1em 1em 1em 1em;
 #personal {
 margin: 1em 1em 1em 1em;
 }
-#thanks {
+#school {
 margin: 1em 1em 1em 1em;
 }
 
