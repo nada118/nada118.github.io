@@ -87,7 +87,7 @@ background-image: url('images/ned_camel.jpg');
 
 }
 
-line.style-one {
+#line.style-one {
     border: 0;
     height: 1px;
     background: #333;
