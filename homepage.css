@@ -11,8 +11,7 @@ float: left;
 }
 
 /container > div {
-float: right;
- display: inline-block;
+
   /* width: 25%;
    text-align: right;*/
 }
@@ -25,6 +24,8 @@ margin: 0.5em 1em 1em 1em;
 .shortcuts{
 font-family: Avenir Next;
 font-size: 1em;
+float: right;
+ display: inline-block;
 }
 
 a{
