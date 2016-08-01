@@ -46,10 +46,6 @@ display: inline-block;
 width: 30em;
 position: relative;
 }
-
-div{
-position: absolute;
-}
 /*#hello{
 font-size: 3em;
 color: #282828;
