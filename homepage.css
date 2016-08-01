@@ -16,7 +16,10 @@ float: left;
    text-align: right;*/
 }
 
-
+#line {
+margin:0;
+padding: 0;
+}
 
 
 
