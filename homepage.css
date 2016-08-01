@@ -48,6 +48,11 @@ float:right;
 margin: 1em 1em 1em 1em;
 }
 
+.aboutme.content{
+margin: 1em 1em 1em 1em;
+display: inline-block;
+}
+
 #hello{
 font-size: 3em;
 color: #282828;
