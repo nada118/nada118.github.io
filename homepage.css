@@ -43,17 +43,14 @@ text-decoration: none;
 font-family: Avenir Next;
 display: inline-block;
 margin-left: 50%;
-
-/*float:left;
-margin: 0.5em 0.5em 0.5em 0.5em;
-position:relative;
-left:4em;*/
 }
 
 #hello{
 font-size: 3em;
 color: #282828;
 font-weight: lighter;
+position: relative;
+top: 1em;
 }
 
 #school {
@@ -63,6 +60,7 @@ width: 30em;
 #personal {
 width: 30em;
 }
+
 #thanks {
 width: 30em;
 }
