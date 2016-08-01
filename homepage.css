@@ -67,7 +67,7 @@ width: 30em;
 width: 30em;
 }
 
-#me{
+#me > *{
 display: inline-block;
 border-radius: 50%;
 height: 350px;
