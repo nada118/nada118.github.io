@@ -26,6 +26,7 @@ font-family: Avenir Next;
 font-size: 1em;
 float: right;
  display: inline-block;
+ margin: 0.6em 0.2em 0.2em 0.7em;
 }
 
 a{
