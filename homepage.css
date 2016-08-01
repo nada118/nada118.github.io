@@ -39,18 +39,13 @@ text-decoration: none;
 }
 
 
-.aboutme {
+.aboutme >*{
 position:relative;
 font-family: Avenir Next;
 display: inline-block;
 text-align:left;
 float:right;
 margin: 1em 1em 1em 1em;
-}
-
-.aboutme.content{
-margin: 1em 1em 1em 1em;
-display: inline-block;
 }
 
 #hello{
