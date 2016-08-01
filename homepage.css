@@ -41,9 +41,9 @@ text-decoration: none;
 
 .aboutme {
 position:relative;
-text-align: right;
 font-family: Avenir Next;
 display: inline-block;
+vertical-align:left;
 }
 
 #hello{
