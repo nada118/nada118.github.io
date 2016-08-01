@@ -45,12 +45,13 @@ display: inline-block;
 text-align:left;
 float:right;
 margin: 0.5em 0.5em 0.5em 0.5em;
+position:relative;
 }
 
 #hello{
 font-size: 3em;
 color: #282828;
-right: 3.5em;
+right: 3.47em;
 font-weight: lighter;
 display: inline-block;
 position:relative;
