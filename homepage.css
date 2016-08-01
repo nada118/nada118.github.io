@@ -19,22 +19,18 @@ float: left;
 header{
 font-size: 3em;
 color: #282828
-float: right;
 margin: 2em 4em 0em 0em;
 
 }
 
-/*#home {
-margin: 0.5em 1em 1em 1em;
-} */
+
 
 
 .shortcuts{
 font-family: Avenir Next;
 font-size: 1em;
 float: right;
- display: inline-block;
- margin: 5.4em 4em 0.2em 0.7em;
+display: inline-block;
 }
 
 a{
@@ -54,6 +50,15 @@ font-family: Avenir Next;
 float: right;
 display: inline-block;
 width: 25em;
+}
+
+#school {
+margin: 1em 1em 1em 1em;
+}
+#personal {
+margin: 1em 1em 1em 1em;
+}
+#thanks {
 margin: 1em 1em 1em 1em;
 }
 
