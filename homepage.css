@@ -48,7 +48,7 @@ float:right;
 margin: 1em 1em 1em 1em;
 }
 
-#hello > *{
+#hello{
 font-size: 3em;
 color: #282828;
 /*left: 10em;
