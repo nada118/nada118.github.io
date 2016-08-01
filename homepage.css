@@ -39,7 +39,7 @@ text-decoration: none;
 }
 
 
-.aboutme{
+.aboutme > *{
 position:relative
 /*text-align: right;*/
 font-family: Avenir Next;
