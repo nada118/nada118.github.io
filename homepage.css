@@ -46,7 +46,7 @@ display: inline-block;
 width: 30em;
 position: relative;
 }
-#hello{
+/*#hello{
 font-size: 3em;
 color: #282828;
 left: 10em;
@@ -64,7 +64,7 @@ margin: 0.5em 0.5em 0.5em 0.5em;
 }
 #personal {
 margin: 0.5em 0.5em 0.5em 0.5em;
-top: 3em;
+top: 4em;
 left: -1.5em;
 right: 2em;
 bottom: 1em;
@@ -74,7 +74,7 @@ top: 4em;
 left: 2em;
 right: 2em;
 bottom: 1em;
-}
+}*/
 
 #me{
 float: left;
