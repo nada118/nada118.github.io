@@ -41,7 +41,7 @@ text-decoration: none;
 
 .aboutme {
 position:relative;
-/*text-align: right;*/
+text-align: right;
 font-family: Avenir Next;
 display: inline-block;
 }
@@ -53,6 +53,7 @@ left: 10em;
 top: 1em;
 right: 2em;
 bottom: 1em;
+font-weight:lighter;
 }
 
 #school {
