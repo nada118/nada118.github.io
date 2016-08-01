@@ -61,6 +61,7 @@ top: 1em;
 right: 2em;
 bottom: 1em;*/
 font-weight:lighter;
+
 }
 
 #school {
@@ -72,7 +73,6 @@ bottom: 1em;*/
 margin: 0.5em 0.5em 0.5em 0.5em;
 width: 30em;
 clear:right;
-display: inline-block;
 }
 
 #personal {
