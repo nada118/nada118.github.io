@@ -62,4 +62,6 @@ float: left;
 display: inline-block;
 margins: 2em 1em 1em 1em;
 border-radius: 50%;
+height: 400px;
+width: 400px;
 }
