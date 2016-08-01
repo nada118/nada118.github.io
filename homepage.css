@@ -52,6 +52,7 @@ p{
 font-family: Avenir Next;
 display: inline-block;
 width: 25em;
+position: relative;
 }
 
 #school {
