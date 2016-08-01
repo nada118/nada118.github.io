@@ -20,6 +20,7 @@ header{
 font-size: 3em;
 color: #282828
 float: right;
+margin: 2em 4em 0em 0em;
 
 }
 
@@ -60,4 +61,5 @@ img{
 float: left;
 display: inline-block;
 margins: 2em 1em 1em 1em;
+border-radius: 100%;
 }
