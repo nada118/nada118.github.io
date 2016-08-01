@@ -43,7 +43,7 @@ text-decoration: none;
 font-family: Avenir Next;
 display: inline-block;
 text-align:left;
-float:left;
+float:right;
 margin: 0.5em 0.5em 0.5em 0.5em;
 }
 
@@ -59,9 +59,8 @@ display: inline-block;
 position:relative;
 font-family: Avenir Next;
 text-align: left;
-
+float: right;
 margin: 1em 1em 1em 1em;
-float: left;
 
 }
 
@@ -71,6 +70,7 @@ top: 6em;
 left: 29.63em;
 right: 2em;
 bottom: 1em;*/
+
 width: 30em;
 clear:right;
 }
@@ -82,7 +82,6 @@ right: 2em;
 bottom: 1em;*/
 width: 30em;
 clear:right;
-
 }
 #thanks {
 /*top: 4em;
