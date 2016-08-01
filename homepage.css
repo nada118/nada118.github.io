@@ -40,7 +40,7 @@ text-decoration: none;
 
 
 .aboutme.content {
-position:relative
+position:relative;
 /*text-align: right;*/
 font-family: Avenir Next;
 display: inline-block;
