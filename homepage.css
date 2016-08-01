@@ -40,10 +40,15 @@ text-decoration: none;
 
 
 
-div{
+p{
 font-family: Avenir Next;
 display: inline-block;
 width: 30em;
+position: relative;
+}
+
+div{
+position: absolute;
 }
 /*#hello{
 font-size: 3em;
