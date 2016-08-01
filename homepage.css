@@ -5,8 +5,7 @@ color: #75C6C6;
 font-weight: lighter;
 letter-spacing: -0.07em;
 position: relative;
-margin-top: 0.6em;
-margin-left:0.6em;
+margin: 0.6em 0.2em 0.2em 0.6em;
 display: inline-block;
 float: left;
 }
