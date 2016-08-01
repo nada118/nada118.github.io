@@ -19,6 +19,8 @@ float: left;
 #intro{
 font-size: 3em;
 color: #282828
+float: right;
+display: inline-block;
 }
 
 /*#home {
@@ -48,4 +50,6 @@ text-decoration: none;
 
 p{
 font-family: Avenir Next;
+float: right;
+display: inline-block;
 }
