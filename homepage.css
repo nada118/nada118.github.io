@@ -49,7 +49,6 @@ position:relative
 /*text-align: right;*/
 font-family: Avenir Next;
 display: inline-block;
-width: 20em;
 }
 
 #hello{
@@ -67,7 +66,7 @@ left: 29.63em;
 right: 2em;
 bottom: 1em;
 margin: 0.5em 0.5em 0.5em 0.5em;
-width: 20em;
+width: 30em;
 }
 #personal {
 margin: 0.5em 0.5em 0.5em 0.5em;
@@ -75,12 +74,14 @@ top: 4em;
 left: -1.5em;
 right: 2em;
 bottom: 1em;
+width: 30em;
 }
 #thanks {
 top: 4em;
 left: 2em;
 right: 2em;
 bottom: 1em;
+width: 30em;
 }
 
 #me{
