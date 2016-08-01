@@ -86,6 +86,7 @@ width: 450px;
 background-position: 50%;
 background-image: url('images/ned.jpg');
 top: 20em;
+position: relative;
 }
 
 #me:hover {
