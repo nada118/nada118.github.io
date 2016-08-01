@@ -72,6 +72,8 @@ height: 350px;
 width: 350;
 margin-right: 50%;
 position: relative;
+top: -22em;
+left: 1.5em;
 }
 
 #me:hover >img  {
