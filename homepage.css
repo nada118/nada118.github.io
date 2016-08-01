@@ -57,7 +57,7 @@ width: 25em;
 margin: 1em 1em 1em 1em;
 }
 
-img{
+#my_face{
 float: left;
 display: inline-block;
 margins: 2em 1em 1em 1em;
@@ -69,7 +69,7 @@ background-repeat: no-repeat;
 background: url("images/ned.jpg");
 }
 
-img:hover {
+#my_face:hover {
 background: url("images/ned_camel.jpg");
 border-radius: 50%;
 height: 450px;
