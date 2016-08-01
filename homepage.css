@@ -66,15 +66,15 @@ height: 450px;
 width: 450px;
 background-position: 50%;
 background-repeat: no-repeat;
-background: url("images/ned.jpg");
+background-position: url('images/ned_camel.jpg');;
 }
 
 #my_face:hover {
-background: url('images/ned_camel.jpg');
+
 border-radius: 50%;
 height: 450px;
 width: 450px;
-background-position: 50%;
+background-position: 0 0;
 background-repeat: no-repeat;
 
 }
