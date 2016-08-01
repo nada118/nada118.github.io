@@ -9,11 +9,12 @@ margin-top: 0.6em;
 margin-left:0.6em;
 }
 
-/*.container > div {
-  display: inline-block;
+/container > div {
+float: right;
+ /* display: inline-block;
    width: 25%;
-   text-align: right;
-} */
+   text-align: right;*/
+}
 
 #home {
 margin: 0.5em 1em 1em 1em;
