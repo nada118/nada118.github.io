@@ -64,4 +64,6 @@ margins: 2em 1em 1em 1em;
 border-radius: 50%;
 height: 400px;
 width: 400px;
+background-position: 50%;
+background-repeat: no-repeat;
 }
