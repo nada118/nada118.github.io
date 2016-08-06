@@ -17,7 +17,7 @@ float: left;
 }
 
 .entirepage{
-width: 70em;
+min-width: 60em;
 }
 
 #line {
