@@ -18,15 +18,10 @@ display: inline-block;
 float: left;
 }
 
-/container > div {
-border: 1px solid red;
-
-  /* width: 25%;
-   text-align: right;*/
-}
-
 .entirepage{
 min-width: 60em;
+border: 1px solid red;
+
 }
 
 #line {
