@@ -47,7 +47,6 @@ text-decoration: none;
 font-family: Avenir Next;
 display: inline-block;
 margin-left: 50%;
-border: 1px solid red;
 }
 
 #hello{
@@ -56,6 +55,7 @@ color: #282828;
 font-weight: lighter;
 position: relative;
 top: 1em;
+border: 1px solid red;
 }
 
 #school {
