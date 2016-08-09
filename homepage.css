@@ -35,7 +35,6 @@ margin: 5.4em 4em 0.2em 0.7em;
 a{
 color: black;
 text-decoration:none;
-border: 1px solid red;
 }
 
 a:hover {
@@ -48,6 +47,7 @@ text-decoration: none;
 font-family: Avenir Next;
 display: inline-block;
 margin-left: 50%;
+border: 1px solid red;
 }
 
 #hello{
