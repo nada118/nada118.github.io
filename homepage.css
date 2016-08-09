@@ -59,7 +59,6 @@ top: 1em;
 
 #school {
 width: 30em;
-border: 1px solid red;
 }
 
 #personal {
@@ -81,6 +80,7 @@ position: relative;
 top: -25em;
 left: 1.5em;
 background-image: url('images/ned.jpg');
+border: 1px solid red;
 }
 
 #me:hover {
