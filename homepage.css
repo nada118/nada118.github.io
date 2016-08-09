@@ -55,11 +55,11 @@ color: #282828;
 font-weight: lighter;
 position: relative;
 top: 1em;
-border: 1px solid red;
 }
 
 #school {
 width: 30em;
+border: 1px solid red;
 }
 
 #personal {
