@@ -16,10 +16,10 @@ position: relative;
 margin: 0.6em 0.2em 0.2em 0.6em;
 display: inline-block;
 float: left;
-border: 1px solid red;
 }
 
 /container > div {
+border: 1px solid red;
 
   /* width: 25%;
    text-align: right;*/
