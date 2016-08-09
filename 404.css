@@ -1,4 +1,5 @@
 body{
 background-image: url("images/lost.jpeg");
-background-size: contain;
+width: 50%;
+height: 50%;
 }
