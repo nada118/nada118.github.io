@@ -23,12 +23,6 @@ min-width: 60em;
 max-height: 100%;
 }
 
-#line {
-margin-left: -8px;
-border: 1px solid red;
-}
-
-
 
 .shortcuts{
 font-family: Avenir Next;
