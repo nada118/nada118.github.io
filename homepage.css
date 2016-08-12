@@ -19,6 +19,7 @@ position: fixed;
 z-index: 10;
 background-color: #ffffff;
 width: 100%
+padding: 2em;
 }
 
 .entirepage{
