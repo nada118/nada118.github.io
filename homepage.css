@@ -95,4 +95,5 @@ background-image: url('images/ned_camel.jpg');
   height: 1px;
   background-image: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0));
   position: fixed;
+  margin-top: 2em;
 }
