@@ -12,9 +12,27 @@ color: #75C6C6;
 font-weight: lighter;
 letter-spacing: -0.07em;
 position: relative;
-margin: 0.6em 0.2em 0.2em 0.6em;
-display: inline-block;
-float: left;
+margin-top: 4%;
+/*margin: 0.6em 0.2em 0.2em 0.6em;*/
+display: inline;
+}
+
+li {
+display: inline;
+font-family: Avenir Next;
+font-size: 1em;
+margin-right: 4em;
+}
+
+.shortcutlist {
+font-family: Avenir Next;
+font-size: 0.4em;
+}
+
+ul{
+margin-left: 50%;
+margin-top:2%;
+display: inline;
 }
 
 .entirepage{
