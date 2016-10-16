@@ -18,19 +18,19 @@ display: inline;
 }
 
 li {
-display: inline;
 font-family: Avenir Next;
 font-size: 1em;
-margin-right: 4em;
+display: inline-block;
 }
 
 .shortcutlist {
 font-family: Avenir Next;
 font-size: 0.4em;
+letter-spacing: 0.03em;
+margin-left: 5%;
 }
 
 ul{
-margin-left: 50%;
 margin-top:2%;
 display: inline;
 }
@@ -38,6 +38,7 @@ display: inline;
 .entirepage{
 min-width: 60em;
 height: 100%;
+max-width: 80em;
 }
 
 
@@ -46,7 +47,9 @@ font-family: Avenir Next;
 font-size: 1em;
 float: right;
 display: inline-block;
-margin: 5.4em 4em 0.2em 0.7em;
+/*margin: 0em 0em 0.2em 0.7em; */
+margin-right: 1em;
+;
 }
 
 a{
@@ -63,7 +66,7 @@ text-decoration: none;
 .aboutme > *{
 font-family: Avenir Next;
 display: inline-block;
-margin-left: 50%;
+margin-left: 53%;
 }
 
 #hello{
@@ -72,6 +75,7 @@ color: #282828;
 font-weight: lighter;
 position: relative;
 top: 1em;
+
 }
 
 #school {
