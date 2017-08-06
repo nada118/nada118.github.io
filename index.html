@@ -12,10 +12,16 @@
     <ul>
         <a href="http://nadaalalusi.com/"><li>Nada Al-Alusi</li></a>
         <a href="http://nadaalalusi.com/"><li class="shortcutlist">Home</li></a>
-        <li class="shortcutlist">Blog</li>
         <a href = "https://www.linkedin.com/in/nadaalalusi"><li class="shortcutlist">LinkedIn</li></a>
         <a href = "https://github.com/nada118"><li class="shortcutlist">GitHub</li></a>
         <a href="Resume.pdf"><li class="shortcutlist">Resume</li></a>
+        <li class="shortcutlist dropdown">
+            <button onmouseover="myFunction()" class="dropbtn">Misc</button>
+            <div id="myDropdown" class="dropdown-content">
+                <a href="http://nadaalalusi.com/memegenerator">Random Meme Generator</a>
+            </div>
+        </li>
+
     </ul>
 </h1></div>
 
@@ -24,8 +30,8 @@
 
 <div class="aboutme"><h3 id="hello"> Hi, I'm Nada.</h3></div>
 <div class="aboutme"><p id="school">I'm currently a fourth year undergraduate student at UC Berkeley, pursuing a degree
-    in Electrical Engineering and Computer Science and a minor in Arabic. This summer I will be interning at Google in
-    Los Angeles on the Personal Search team. In the fall, I will be taking Operating Systems and Systems Programming
+    in Electrical Engineering and Computer Science and a minor in Arabic. This summer I am interning at Google in
+    Los Angeles as part of the Personal Search team. In the fall, I will be taking Operating Systems and Systems Programming
     (CS 162), Introduction to the Internet: Architecture and Protocols (CS 168), and Muslims in America (ASAMST 128AC).</p>
 </div>
 <div class="aboutme"><p id="personal">
@@ -39,5 +45,26 @@
 </div>
 
 </div>
+
+<script>
+function myFunction() {
+    document.getElementById("myDropdown").classList.toggle("show");
+}
+
+window.onclick = function(event) {
+  if (!event.target.matches('.dropbtn')) {
+
+    var dropdowns = document.getElementsByClassName("dropdown-content");
+    var i;
+    for (i = 0; i < dropdowns.length; i++) {
+      var openDropdown = dropdowns[i];
+      if (openDropdown.classList.contains('show')) {
+        openDropdown.classList.remove('show');
+      }
+    }
+  }
+}
+</script>
+
 </body>
 </html>

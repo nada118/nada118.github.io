@@ -1,0 +1,12 @@
+<html>
+<script>
+    window.onload = function () {
+    var numImages = 3;
+    var imageNumber =  Math.floor(Math.random() * numImages)
+    imgURL = "url('" + "memes/img" + imageNumber.toString() + ".jpg" + "')";
+
+    document.body.style.backgroundImage = imgURL
+    document.body.style.backgroundRepeat = "no-repeat";
+}
+</script>
+</html>
